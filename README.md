@@ -1,16 +1,13 @@
-# customer_app
+# Yummy App
 
-A new Flutter application.
+It's a restaurant app for customers to check the restaurant menu and orders food.
 
-## Getting Started
+## App Banner
 
-This project is a starting point for a Flutter application.
+<img src = "assets/images/yummy.png">
 
-A few resources to get you started if this is your first Flutter project:
+## Screen Shots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src = "images/c1.png" height = 450;> <img src = "images/c2.png" height = 450;> <img src = "images/c3.png" height = 450;>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "images/c4.png" height = 450;> <img src = "images/c5.png" height = 450;> 
