@@ -4,7 +4,7 @@ It's a restaurant app for customers to check the restaurant menu and orders food
 
 ## App Banner
 
-<img src = "assets/images/yummy.png">
+<img src = "images/yummy.png">
 
 ## Screen Shots
 
